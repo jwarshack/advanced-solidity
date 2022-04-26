@@ -36,5 +36,6 @@ contract AbiDecode {
   {
     (text0, text1) = abi.decode(data, (string, string));
   }
+
    
 }
